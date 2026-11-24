@@ -277,25 +277,5 @@ BA_ "BusType" "CAN";
 BA_ "DatabaseCompiler" "CSS ELECTRONICS (WWW.CSSELECTRONICS.COM)";
 BA_ "DatabaseVersion" "1.0.0";
 BA_ "VFrameFormat" BO_ 1600 3;
-
-
-CM_ BO_ 10 "Unconfirmed Measurements";
-CM_ SG_ 10 VOut "unconfirmed measurement";
-CM_ SG_ 10 IOut "unconfirmed measurement";
-CM_ BO_ 13 "Unknown Units";
-CM_ BO_ 14 "Unknown Units";
-CM_ SG_ 1601 FuelVolume "This unit is hella sus, in MoTeC its multiplied by a billion, but its also a micro-Liter??";
-CM_ BO_ 1604 "skipped";
-CM_ BO_ 1608 "skipped";
-CM_ SG_ 1609 CoolantTemp "not confirmed, assumed Celsius";
-CM_ SG_ 1609 OilTemp "not confirmed, assumed Celsius";
-CM_ SG_ 1609 FuelTemp "not confirmed, assumed Celsius";
-CM_ SG_ 1609 AmbientTemp "not confirmed, assumed Celsius";
-CM_ SG_ 1609 AirboxTemp "not confirmed, assumed Celsius";
-CM_ SG_ 1610 AmbientPressure "unknown, assumed to be kPa";
-CM_ BO_ 1612 "unknown";
-CM_ BO_ 3 "Unconfirmed units";
-CM_ SG_ 3 DAQXAccel "Unconfirmed units";
-CM_ SG_ 3 DAQYAccel "Unconfirmed units";
 CM_ SG_ 3 DAQZAccel "Unconfirmed units";
 CM_ BO_ 1665 "Patch added, cuz the dbc editor deleted this";
