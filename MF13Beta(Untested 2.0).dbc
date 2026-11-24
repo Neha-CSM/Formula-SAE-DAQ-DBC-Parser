@@ -277,5 +277,3 @@ BA_ "BusType" "CAN";
 BA_ "DatabaseCompiler" "CSS ELECTRONICS (WWW.CSSELECTRONICS.COM)";
 BA_ "DatabaseVersion" "1.0.0";
 BA_ "VFrameFormat" BO_ 1600 3;
-CM_ SG_ 3 DAQZAccel "Unconfirmed units";
-CM_ BO_ 1665 "Patch added, cuz the dbc editor deleted this";
